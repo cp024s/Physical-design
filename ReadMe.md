@@ -571,7 +571,3 @@ alt="alt text"  >
 alt="alt text"  >
 <p/>
 <br/>
-
-# Acknowledgements:
-* Kunal Ghosh, Co-founder (VSD Corp. Pvt. Ltd)
-* Nickson P Jose, Teaching Assistant (VSD Corp. Pvt. Ltd)
